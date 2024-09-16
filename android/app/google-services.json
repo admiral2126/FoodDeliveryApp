@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824922485050",
+    "firebase_url": "https://admiralfb-58d84-default-rtdb.firebaseio.com",
+    "project_id": "admiralfb-58d84",
+    "storage_bucket": "admiralfb-58d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824922485050:android:abcfda6c962798ed4f6003",
+        "android_client_info": {
+          "package_name": "com.moris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824922485050-rlvnn7d2nmgvp5m8fdgsq20heagqkpj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0SePaKYZMgCPGy45ziF9yF45QA0O8o0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824922485050-rlvnn7d2nmgvp5m8fdgsq20heagqkpj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
